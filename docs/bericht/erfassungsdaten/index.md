@@ -1,0 +1,3 @@
+In der Berichtsansicht wird zunächst eine Übersicht der gestellten Abfrage in einer Tabelle dargestellt. Darauf folgt eine Tabelle mit Kenngrößen zu den erhaltenen Ergebnissen: die Anzahl der Erfassungen und der verschiedenen Taxa sowie die Zeitspanne der Erfassungen (erstes und letzes Datum).
+
+Eine Gesamtliste der vorkommenden Taxa für die gewählten Untersuchungskriterien findet sich am Ende des Berichts. Für jedes Taxon sind außerdem Erfassungsstatistiken (Anzahl der Erfassungen, ältestes und jüngstes Datum der Erfassung) und die jeweiligen taxonspezifischen Daten angegeben. Die Liste der vorkommenden Taxa dient als Basis für alle folgenden Berechnungen.
